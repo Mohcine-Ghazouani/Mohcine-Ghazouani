@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
   </h3>
 </div>
 
-
 <table align="center">
   <tr>
     <td>
@@ -24,14 +23,16 @@ You can click the Preview link to take a look at your changes.
         🌱 I am currently developing and improving my programming skills.<br/>
       </p>
       <h3>🌐 Connect me :</h3>
-        <a href="mailto:mohcine.el.ghazouani@gmail.com">
-          <img width="55px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" /></a>
-        <a href="https://www.linkedin.com/in/mouhcine-el-ghazouani-84985a295">
-          <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>
-        <a href="https://github.com/Mohcine-Ghazouani">
-          <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" /></a>
-        <a href="https://instagram.com/mohcine_ghazouani">
-          <img width="55px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" alt="Instagram" /></a>
+        <div align="center">
+          <a href="mailto:mohcine.el.ghazouani@gmail.com">
+            <img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+          <a href="https://www.linkedin.com/in/mouhcine-el-ghazouani-84985a295">
+            <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>
+          <a href="https://github.com/Mohcine-Ghazouani">
+            <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" /></a>
+          <a href="https://instagram.com/mohcine_ghazouani">
+            <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" /></a>
+        </div>
     </td>
   </tr>
 </table>
