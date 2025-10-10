@@ -2,49 +2,37 @@
 Mohcine-Ghazouani/Mohcine-Ghazouani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--
-  ```
-████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
-████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
-████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
-▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
-█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
-▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
-█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
-██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
-████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
-██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
-████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
-████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
-█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
-█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
-▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-```
--->
+
 <div align="center">
   <img alt="COODING" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
-<h1>👋Hi, I'm Mohcine Ghazouani</h1>
-<h3>A passionate full-stack developer</h3>
-</div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500">
-<!--<img align="right" width="400" alt="COODING" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">-->
-<div align="left" >
-  
-  <h4>👀 I’m interested in web devlopment</h4>
-  <h4>🌱 I’m currently learning ...</h4>
-  <h4>📫 How to reach me mohcine.el.ghazouani@gmail.com</h4>
-  
+  <h1>👋Hi, I'm Mohcine Ghazouani</h1>
+  <h3>
+    I'm a passionate full-stack developer who loves building creative and efficient digital solutions. 
+  </h3>
 </div>
 
+
+<table align="center">
+  <tr>
+    <td>
+      <img align="left" width="400" alt="COODING" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+    </td>
+    <td>
+      <h3>💫 About Me</h3>
+      <p>
+        👀 I’m interested in web development.<br/>
+        🌱 I am currently developing and improving my programming skills.<br/>
+      </p>
+      <h3>🌐 Connect me :</h3>
+        <a href="mohcine.el.ghazouani@gmail.com">
+          <img width="55px" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
+        <a href="https://www.linkedin.com/in/mouhcine-el-ghazouani-84985a295">
+          <img width="55px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    </td>
+  </tr>
+</table>
 
 <img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
-
-
 
 # 💻 Tech Stack:
 <div align="center">
@@ -76,34 +64,27 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 # 📊 GitHub Stats:
-<!---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohcine-Ghazouani&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=Mohcine-Ghazouani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohcine-Ghazouani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
+
 <div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=Mohcine-Ghazouani&theme=dark&hide_border=false)<br/>
-![](https://github-profile-trophy.vercel.app/?username=Mohcine-Ghazouani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-readme-stats.vercel.app/api?username=Mohcine-Ghazouani&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Mohcine-Ghazouani&theme=tokyonight&hide_border=true)<br/>
+![](https://github-profile-trophy.vercel.app/?username=Mohcine-Ghazouani&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 </div>
 
 ### ✍️ Random Dev Quote
 <div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Mohcine-Ghazouani&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+<img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 <!-- 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohcineghazouani) 
 -->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
-<!--
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/wow.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
-->>
+
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+
