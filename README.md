@@ -24,10 +24,14 @@ You can click the Preview link to take a look at your changes.
         🌱 I am currently developing and improving my programming skills.<br/>
       </p>
       <h3>🌐 Connect me :</h3>
-        <a href="mohcine.el.ghazouani@gmail.com">
-          <img width="55px" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
+        <a href="mailto:mohcine.el.ghazouani@gmail.com">
+          <img width="55px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" /></a>
         <a href="https://www.linkedin.com/in/mouhcine-el-ghazouani-84985a295">
-          <img width="55px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+          <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>
+        <a href="https://github.com/Mohcine-Ghazouani">
+          <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" /></a>
+        <a href="https://instagram.com/mohcine_ghazouani">
+          <img width="55px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" alt="Instagram" /></a>
     </td>
   </tr>
 </table>
