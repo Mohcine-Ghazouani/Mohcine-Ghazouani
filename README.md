@@ -72,8 +72,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Mohcine-Ghazouani&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Mohcine-Ghazouani&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mohcine-Ghazouani&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+<!--![](https://nirzak-streak-stats.vercel.app/?user=Mohcine-Ghazouani&theme=tokyonight&hide_border=true)-->
 ![](https://github-profile-trophy.vercel.app/?username=Mohcine-Ghazouani&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
