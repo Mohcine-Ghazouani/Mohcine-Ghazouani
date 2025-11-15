@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  <img alt="COODING" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+  <!-- <img alt="COODING" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"> -->
   <h1>👋Hi, I'm Mohcine Ghazouani</h1>
   <h3>
     I'm a passionate full-stack developer who loves building creative and efficient digital solutions. 
@@ -86,10 +86,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
-<!-- 
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohcineghazouani) 
--->
 
 <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 
