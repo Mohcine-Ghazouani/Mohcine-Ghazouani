@@ -2,45 +2,21 @@
 Mohcine-Ghazouani/Mohcine-Ghazouani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+<!---[**Mohcine**](https://www.miraya.tech)--->
+I’m Mohcine, a full-stack developer based in Morocco.
 
-<div align="center">
-  <!-- <img alt="COODING" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"> -->
-  <h1>👋Hi, I'm Mohcine Ghazouani</h1>
-  <h3>
-    I'm a passionate full-stack developer who loves building creative and efficient digital solutions. 
-  </h3>
-</div>
+I develop simple, clean and user-friendly responsive web applications.
 
-<table align="center">
-  <tr>
-    <td>
-      <img align="left" width="400" alt="COODING" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-    </td>
-    <td>
-      <h3>💫 About Me</h3>
-      <p>
-        👀 I’m interested in web development.<br/>
-        🌱 I am currently developing and improving my programming skills.<br/>
-      </p>
-      <h3>🌐 Connect me :</h3>
-        <div align="center">
-          <a href="mailto:mohcine.el.ghazouani@gmail.com">
-            <img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-          <a href="https://www.linkedin.com/in/mouhcine-el-ghazouani">
-            <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>
-          <a href="https://github.com/Mohcine-Ghazouani">
-            <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" /></a>
-          <a href="https://instagram.com/mohcine_ghazouani">
-            <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" /></a>
-        </div>
-    </td>
-  </tr>
-</table>
+If an idea pops into my head, chances are I’ll build it and ship it.
 
-<img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+I work across the stack with HTML, CSS, JavaScript, TypeScript, PHP, React, Laravel, and MySQL, and I enjoy turning ideas into clean, functional code.
 
-# 💻 Tech Stack:
-<div align="center">
+I’m always exploring new tools and frameworks to grow my skills and keep up with the fast-moving world of web development.
+
+
+### 💻 Tech Stack:
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -66,18 +42,12 @@ You can click the Preview link to take a look at your changes.
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-</div>
 
-# 📊 GitHub Stats:
 
-<div align="center">
+<img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
-![](https://github-readme-stats.vercel.app/api?username=Mohcine-Ghazouani&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-<!--![](https://nirzak-streak-stats.vercel.app/?user=Mohcine-Ghazouani&theme=tokyonight&hide_border=true)-->
-![](https://github-profile-trophy.vercel.app/?username=Mohcine-Ghazouani&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-</div>
-
+<!---
 ### ✍️ Random Dev Quote
 <div align="center">
   
@@ -85,10 +55,8 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohcineghazouani) 
-
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohcineghazouani) 
+--->
 <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 
